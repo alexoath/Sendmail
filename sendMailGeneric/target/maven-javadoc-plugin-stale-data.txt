@@ -1,0 +1,43 @@
+@options
+@packages
+-classpath
+'C:/Users/Walter Morales/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar;C:/Users/Walter Morales/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Walter Morales/OneDrive/Documents/NetBeansProjects/sendMailGeneric/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Walter Morales/OneDrive/Documents/NetBeansProjects/sendMailGeneric/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sendMailGeneric 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Walter Morales/OneDrive/Documents/NetBeansProjects/sendMailGeneric/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sendMailGeneric 1.0-SNAPSHOT API'
+com.sendmailgeneric
+C:\Users\Walter Morales\.m2\repository\com\sun\mail\javax.mail\1.6.2\javax.mail-1.6.2.jar = 1535581852000
+C:\Users\Walter Morales\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar = 1146612027000
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\src\main\java = 1705288740000
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\allclasses-frame.html = 1705546551875
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\allclasses-noframe.html = 1705546551877
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\constant-values.html = 1705546551840
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\deprecated-list.html = 1705546551872
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\help-doc.html = 1705546551886
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\index-all.html = 1705546551866
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\index.html = 1705546551880
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\overview-tree.html = 1705546551861
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\package-list = 1705546551810
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\script.js = 1705546551892
+C:\Users\Walter Morales\OneDrive\Documents\NetBeansProjects\sendMailGeneric\target\site\apidocs\stylesheet.css = 1705546551890
